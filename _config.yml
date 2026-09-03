@@ -24,11 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   CS 191
 baseurl: "/blog" # the subpath of your site
 url: "https://cs191-ame.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: _
+github_username:  _
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
