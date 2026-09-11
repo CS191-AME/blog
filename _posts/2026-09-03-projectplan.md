@@ -8,5 +8,5 @@ title: "Project Plan"
 Attached below is the pdf.
 
 
-[Project Plan]({{ "/attachments/projectplan.pdf" | relative_url }})
+[Project Plan]({{ "/assets/projectplan.pdf" | relative_url }})
 
