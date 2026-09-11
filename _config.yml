@@ -26,7 +26,7 @@ baseurl: "/blog" # the subpath of your site
 url: "https://cs191-ame.github.io" # the base hostname & protocol for your site
 twitter_username: _
 github_username:  _
-
+permalink: pretty
 # Build settings
 theme: minima
 plugins:
