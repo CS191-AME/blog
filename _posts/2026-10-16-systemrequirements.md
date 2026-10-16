@@ -8,6 +8,6 @@ title: "System Requirements"
 Attached below is the pdf for the system requirements document.
 
 
-[System Requirements]({{ "/assets/projectplan.pdf" | relative_url }})
+[System Requirements]({{ "/assets/sysreq.pdf" | relative_url }})
 
 
