@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AME
+title: CS 191
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  CS 191
+  AME
 baseurl: "/blog" # the subpath of your site
+# footer_title: About
 url: "https://cs191-ame.github.io" # the base hostname & protocol for your site
-twitter_username: _
-github_username:  _
+github_username: https://github.com/CS191-AME
 permalink: pretty
 # Build settings
 theme: minima
