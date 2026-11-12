@@ -5,7 +5,7 @@ title: "Software Demo"
 
 # Hello
 
-In this post, we demonstrate our progress on Halalan as of November 12, 2026. The prototype of our project requires working CRUDs for the Election, Position, and Party entities for a superadmin user.
+In this post, we demonstrate our progress on Halalan as of November 11, 2026. The prototype of our project requires working CRUDs for the Election, Position, and Party entities for a superadmin user.
 
 ## Election CRUD
 
